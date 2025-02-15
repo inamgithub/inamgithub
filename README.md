@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @inamgithub
-- 👀 I’m interested in ...Data Science
-- 🌱 I’m pursuing ...b.tech CSE Final Year
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Full Stack Development
+- 🌱 Completed ...b.tech CSE(8.67/10)
 - 📫 How to reach me ...inamurrahman.d@gmail.com
 
 <!---
